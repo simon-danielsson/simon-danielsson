@@ -14,6 +14,6 @@ Hello! I am a producer, composer, classical guitarist, mixing- and mastering-eng
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-A5D6FF?style=flat-square&logo=Python" alt="Python" />
+    <img src="https://img.shields.io/badge/-Python-3676AB?style=flat-square&logo=Python" alt="Python" />
     <img src="https://img.shields.io/badge/-Rust-FE7D37?style=flat-square&logo=Rust" alt="Rust" />
 </p>
