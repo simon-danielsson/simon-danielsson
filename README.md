@@ -28,7 +28,7 @@
       and often like weaving that hobby into my work as a musician and an enjoyer of music.
     </td>
     <td width="50%" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-danielsson&layout=compact&theme=transparent&hide_border=true" alt="GitHub Stats" width="60%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-danielsson&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&exclude_repo=dotfiles" alt="GitHub Stats" width="60%">
     </td>
   </tr>
 </table>
