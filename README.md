@@ -11,5 +11,5 @@
 
 ---
 <p align="center">
-Hello! I am a producer, composer, classical guitarist, mixing- and mastering-engineer based in Sweden. Music is my main occupation, but I also enjoy computer science and programming, and often like weaving that hobby into my work as a musician and an enjoyer of music.
+I am a producer, composer, classical guitarist, mixing- and mastering-engineer based in Sweden. Music is my main occupation, but I also enjoy computer science and programming, and often like weaving that hobby into my work as a musician and an enjoyer of music.
 </p>
