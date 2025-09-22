@@ -4,7 +4,6 @@
       <h3>Simon Danielsson</h3>
     </td>
     <td width="80%" align="right">
-      <!-- put all links directly inside the cell -->
       <a href="https://www.instagram.com/danielssonofficial/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white">
       </a>
@@ -29,7 +28,7 @@
       and often like weaving that hobby into my work as a musician and an enjoyer of music.
     </td>
     <td width="50%" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-danielsson&layout=compact&theme=transparent" alt="GitHub Stats" width="60%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-danielsson&layout=compact&theme=transparent&hide_border=true" alt="GitHub Stats" width="60%">
     </td>
   </tr>
 </table>
