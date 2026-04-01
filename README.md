@@ -1,16 +1,15 @@
-## Hi there 👋
+``` rust
+fn main() {
+    let mut details: Vec<(&str, &str)> = Vec::new();
 
-<!--
-**simon-danielsson/simon-danielsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    details.push(("name", "simon danielsson"));
+    details.push(("age", "25"));
+    details.push(("occupa.", "guitarist, producer, recreational programmer"));
+    details.push(("contant", "contact@simondanielsson.se"));
+    details.push(("website", "https://www.simondanielsson.se/"));
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    for (f, d) in details {
+        println!("{f:<8}: {d}")
+    }
+}
+```
