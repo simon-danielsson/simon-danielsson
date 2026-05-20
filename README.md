@@ -1,15 +1,1 @@
-``` rust
-fn main() {
-    let mut details: Vec<(&str, &str)> = Vec::new();
-
-    details.push(("name", "simon danielsson"));
-    details.push(("age", "25"));
-    details.push(("occupa.", "guitarist, producer, recreational programmer"));
-    details.push(("contact", "contact@simondanielsson.se"));
-    details.push(("website", "https://www.simondanielsson.se/"));
-
-    for (f, d) in details {
-        println!("{f:<8}: {d}")
-    }
-}
-```
+![Top Languages](https://ghstats.dev/api/langs?username=simon-danielsson&theme=nord&hide_border=true&hide_title=true)
